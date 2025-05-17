@@ -1,0 +1,12 @@
+.principal h4{
+    display: block;
+    margin-top: 42px;
+}
+
+.destaque h4{
+    margin-top: 12px;
+}
+
+.header{
+    margin: 20px 0;
+}
